@@ -22,6 +22,7 @@ L'application comprendra des fonctionnalités telles que des leçons interactive
 ## Dates importantes
 
 7 Novembre : Montrer le prototype
+
 28 Novembre : Montrer le projet final
 
 1er avril: Presention etude avec projet en production 
