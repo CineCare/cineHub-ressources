@@ -19,10 +19,9 @@ L'application comprendra des fonctionnalités telles que des leçons interactive
 
 ![Capture d'écran de l'application](screenshot.png)
 
-## Installation et Utilisation
+## Dates importantes
 
-1. Clonez ce dépôt GitHub sur votre machine locale.
-   
-   ```bash
-   git clone https://github.com/votre-utilisateur/votre-projet.git
-```
+7 Novembre : Montrer le prototype
+28 Novembre : Montrer le projet final
+
+1er avril: Presention etude avec projet en production 
