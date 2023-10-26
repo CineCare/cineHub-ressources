@@ -14,7 +14,7 @@
 
 7 Novembre : Montrer le prototype
 
-14 Novembre : remise de l'esquisse
+14 Novembre : remise de l'esquisse :fournir roadmap, github, schemas pour le site de répertoire.
 
 28 Novembre : Montrer le POC pour le cours "projet final".
 
