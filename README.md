@@ -1,25 +1,25 @@
-# Projet d'Application Web pour l'Apprentissage de l'Anglais avec des Difficultés Auditives
+# Projet d'Application Web CineHub Québec
 
 ## Aperçu du Projet
+Description du projet et de la démarche de recherche - création - action
 
 ## Fonctionnalités Clés
-
+Une liste des fonctionnalités principales
+- fonctionalité 1
+- fonctionalité 2
+- fonctionalité 3
+- fonctionalité 4
 
 ## Captures d'Écran
 
 ![Capture d'écran de l'application](screenshot.png)
 
 ## Dates importantes
-31 Octobre : remise du résumé du projet final.
 
-7 Novembre : Montrer le prototype
+5 Décembre : Présentation publique du projet et de sa gestion
 
-14 Novembre : remise de l'esquisse :fournir roadmap, github, schemas pour le site de répertoire.
+19 Décembre : Montrer le prototype lors du séminaire du CIN.
 
-21 Novembre : Séminaire du CIN
+20 Décembre : Rendu du journal de bord lors du séminaire du HAR
 
-28 Novembre : Montrer le POC pour le cours "projet final".
-
-19 Décembre : Séminaire du HAR
-
-1er Avril: Presention etude avec projet en production 
+5 Avril: Presention etude avec projet en production 
