@@ -16,6 +16,10 @@
 
 14 Novembre : remise de l'esquisse :fournir roadmap, github, schemas pour le site de répertoire.
 
+21 Novembre : Séminaire du CIN
+
 28 Novembre : Montrer le POC pour le cours "projet final".
+
+19 Décembre : Séminaire du HAR
 
 1er Avril: Presention etude avec projet en production 
