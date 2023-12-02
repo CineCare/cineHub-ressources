@@ -2,7 +2,7 @@
 
 ## Aperçu du Projet
 ### Introduction
-Dans l'univers du cinéma québécois, un besoin criant d'accessibilité et d'inclusivité se fait sentir au sein de nos salles de cinéma et maisons de production. Pour répondre à ce défi, je suis honorée de collaborer au sein du laboratoire cinEXmédia, aux côtés de Louis un étudiant en informatique de l'UdeM et de Gregory, un ami développeur web français. Ensemble, nous nous investissons dans la réalisation d’un projet audacieux : la création d’une plateforme web centralisée, entièrement dédiée à l'accessibilité dans l’industrie du cinéma québécois. 
+Dans l'univers du cinéma québécois, un besoin criant d'accessibilité et d'inclusivité se fait sentir au sein de nos salles de cinéma et maisons de production. Pour répondre à ce défi, je suis honorée de collaborer au sein du laboratoire cinEXmédia, aux côtés de Louis un étudiant en informatique de l'UdeM et de Grégory, un ami développeur web français. Ensemble, nous nous investissons dans la réalisation d’un projet audacieux : la création d’une plateforme web centralisée, entièrement dédiée à l'accessibilité dans l’industrie du cinéma québécois. 
 
 ### Contexte et Fondements Théoriques :
 Cette plateforme se veut être un carrefour inclusif et inspirant, dédié à la promotion de toutes les salles de cinéma et maisons de production québécoises. L’objectif principal est de créer un espace où chaque entité trouve sa place, tout en mettant particulièrement en lumière celles qui ont déjà embrassé une démarche résolument accessible, inclusive et anti-validiste. 
