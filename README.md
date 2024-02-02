@@ -27,7 +27,7 @@ Une liste des fonctionnalités principales
 
 ## Dates importantes
 
-5 Décembre : Présentation publique du projet et de sa gestion
+2 Avril : Présentation publique du projet et de sa gestion
 
 19 Décembre : Montrer le prototype lors du séminaire du CIN.
 
