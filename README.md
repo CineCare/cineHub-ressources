@@ -33,4 +33,6 @@ Une liste des fonctionnalités principales
 
 20 Décembre : Rendu du journal de bord lors du séminaire du HAR
 
-5 Avril: Presention etude avec projet en production 
+5 Avril: Presention etude avec projet en production
+
+17 mars : arrivée de Mathieu
