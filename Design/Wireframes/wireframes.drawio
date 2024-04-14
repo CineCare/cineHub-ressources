@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="3q-qG4mRz-fF5L1ljN0T" name="Accueil - Wireframe">
-        <mxGraphModel dx="2466" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2753" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -737,7 +737,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="yp6DBqYDz-d9TuR0Tu2P" name="Annuaire cinémas - wireframe">
-        <mxGraphModel dx="1639" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1926" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -910,7 +910,7 @@
                     <mxGeometry x="180" y="550" width="40" height="26.67" as="geometry"/>
                 </mxCell>
                 <mxCell id="RK7WanX1UQlZbBMktkln-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="-730" y="150" width="270" height="1200" as="geometry"/>
+                    <mxGeometry x="-730" y="190" width="270" height="1200" as="geometry"/>
                 </mxCell>
                 <mxCell id="RK7WanX1UQlZbBMktkln-2" value="" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#18141d;fontColor=#18141d;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" parent="RK7WanX1UQlZbBMktkln-1" vertex="1">
                     <mxGeometry y="150" width="270" height="450" as="geometry"/>
